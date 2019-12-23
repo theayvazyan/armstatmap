@@ -1,0 +1,4252 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-12-20T11:51:02Z",
+    "timestamp_areas_base": "2019-12-20T10:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 370158319,
+  "lat": 40.1813219,
+  "lon": 44.5163057,
+  "tags": {
+    "addr:city": "Yerevan",
+    "addr:housenumber": "14",
+    "addr:postcode": "0001",
+    "addr:street": "Abovyan St",
+    "email": "welcome@grandhotelyerevan.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Grand Hotel Yerevan Royal Tulip",
+    "name:de": "Grand Hotel Jerewan Royal Tulip",
+    "name:hy": "Ռոյալ Թուլիփ Գրանդ Հոթել Երևան",
+    "name:ru": "Роял Тюлип Гранд Отель Ереван",
+    "note": "Reservations: +374 10 59 16 99",
+    "phone": "+374 10 59 16 00",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.grandhotelyerevan.com"
+  }
+},
+{
+  "type": "node",
+  "id": 372617914,
+  "lat": 40.1762119,
+  "lon": 44.5152228,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "38",
+    "addr:postcode": "0010",
+    "addr:street": "Հանրապետության փողոց",
+    "email": "info@europehotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Հյուրանոց Եվրոպա",
+    "name:de": "Hotel Europa",
+    "name:en": "\"Europe\" Hotel",
+    "name:hy": "Հյուրանոց Եվրոպա",
+    "name:ru": "Гостиница Европа",
+    "phone": "+374 10 54 60 60",
+    "rooms": "47",
+    "smoking": "isolated",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.europehotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 373178375,
+  "lat": 40.1742658,
+  "lon": 44.5016977,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "2/2",
+    "addr:postcode": "0015",
+    "addr:street": "Մեսրոպ Մաշտոցի պողոտա",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Մետրոպոլ",
+    "name:en": "\"Metropol\" Hotel",
+    "name:hy": "Մետրոպոլ",
+    "name:ru": "\"Metropol\" Hotel",
+    "note": "Hotel reservations: +374 10 51 07 31",
+    "opening_hours": "24/7",
+    "phone": "+374 10 51 07 00,+374 10 51 07 31",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.metropol.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 374197359,
+  "lat": 40.1778363,
+  "lon": 44.5113713,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:country": "AM",
+    "addr:housenumber": "1",
+    "addr:postcode": "0010",
+    "addr:street": "Amiryan St",
+    "contact:email": "armenia.marriott@marriott.com",
+    "contact:facebook": "https://www.facebook.com/ArmeniaMarriottYerevan/",
+    "contact:website": "https://www.marriott.com/hotels/travel/evnmc-armenia-marriott-hotel-yerevan",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Մարիոթ Արմենիա",
+    "name:de": "Marriott Armenia",
+    "name:en": "\"Marriott Armenia\" Hotel",
+    "name:hy": "Մարիոթ Արմենիա հյուրանոց",
+    "name:ru": "\"Мариот Армения\" Отель",
+    "note": "Reservations: +374 10 59 90 02",
+    "opening_hours": "24/7",
+    "phone": "+374 10 59 90 00",
+    "stars": "5",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 374208966,
+  "lat": 40.1773188,
+  "lon": 44.5079047,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Շիրակ հյուրանոց",
+    "name:en": "\"Shirak Hotel\"",
+    "name:hy": "Շիրակ հյուրանոց",
+    "name:ru": "\"Ширак\" Гостиница",
+    "phone": "+ 374 10 52 99 15;+374 10 56 95 95",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://shirakhotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 1166890950,
+  "lat": 40.2171059,
+  "lon": 44.4416152,
+  "tags": {
+    "email": "info@latar.am",
+    "fax": "+374 10 38 07 18",
+    "internet_access": "wlan",
+    "name": "Լաթար",
+    "name:en": "\"Latar\"",
+    "name:hy": "Լաթար",
+    "note": "phone_1  +374 11 52 00 00",
+    "phone": "+374 10 38 07 11",
+    "phone_1": "+374 11 52 00 00",
+    "rooms": "19",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://latar.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1296208895,
+  "lat": 39.4825518,
+  "lon": 46.3610268,
+  "tags": {
+    "name": "Երազանք",
+    "name:en": "Erazanq",
+    "name:hy": "Երազանք",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1328484963,
+  "lat": 39.5232511,
+  "lon": 46.0246470,
+  "tags": {
+    "fixme": "position",
+    "name": "Dina",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1422752972,
+  "lat": 40.7877511,
+  "lon": 43.8404729,
+  "tags": {
+    "email": "info@arakshotel.am",
+    "name": "\"Araks\" Hotel",
+    "phone": "+374 312 5 11 99, +374 312 5 44 35",
+    "tourism": "hotel",
+    "website": "http://www.arakshotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1432874051,
+  "lat": 40.1852198,
+  "lon": 44.5015689,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "72",
+    "addr:postcode": "0015",
+    "addr:street": "Ձորափի փողոց",
+    "name": "Hrazdan",
+    "name:en": "\"Hrazdan\" Hotel",
+    "name:hy": "«ՀՐԱԶԴԱՆ» ՀՅՈՒՐԱՆՈՑ",
+    "name:ru": "\"Раздан\" Гостиница",
+    "tourism": "hotel",
+    "website": "http://www.hotelhrazdan.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1454041878,
+  "lat": 40.1971567,
+  "lon": 44.5188840,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "2/2",
+    "addr:postcode": "0037",
+    "addr:street": "Ազատության պողոտա",
+    "email": "info.yerevan@radissonblu.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Radisson Blu Hotel",
+    "name:hy": "\"Ռեդիսոն Բլու\" Հյուրանոց",
+    "opening_hours": "24/7",
+    "operator": "The Carlson Rezidor Hotel Group",
+    "phone": "+374 10 21 99 00",
+    "rooms": "142",
+    "tourism": "hotel",
+    "website": "https://www.radissonblu.com/en/hotel-yerevan"
+  }
+},
+{
+  "type": "node",
+  "id": 1456245311,
+  "lat": 40.1840599,
+  "lon": 44.5313552,
+  "tags": {
+    "name": "ArMa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1463784428,
+  "lat": 39.6897078,
+  "lon": 45.4720644,
+  "tags": {
+    "email": "vaykhotel@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Vayk Hotel & Tourism Information Center",
+    "phone": "+374 282 9 28 09,+374 77 01 08 55",
+    "rooms": "15",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1487188775,
+  "lat": 40.2037955,
+  "lon": 44.5027805,
+  "tags": {
+    "description": "yerevandeluxe@yahoo.com",
+    "internet_access": "yes",
+    "name": "Yerevan Deluxe Hotel",
+    "phone": "+374 10  27 77 10",
+    "tourism": "hotel",
+    "website": "http://www.deluxehotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1631227821,
+  "lat": 39.6919648,
+  "lon": 45.4726535,
+  "tags": {
+    "name": "Մարիա",
+    "name:en": "\"Maria\"",
+    "name:ru": "\"Мариа\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1639411766,
+  "lat": 39.5230190,
+  "lon": 46.0266373,
+  "tags": {
+    "name": "Basen",
+    "phone": "374-28-32-46-62",
+    "tourism": "hotel",
+    "website": "http://www.basenhotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1864654859,
+  "lat": 40.5639917,
+  "lon": 45.0091273,
+  "tags": {
+    "name": "Աշոտ Երկաթ",
+    "name:en": "\"Ashot Erkat\"",
+    "name:ru": "\"Ашот Еркат\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1908549061,
+  "lat": 40.1877047,
+  "lon": 44.5344788,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "121/7",
+    "addr:postcode": "0047",
+    "addr:street": "Արմենակ Արմենակյան փողոց",
+    "email": "reservations@hotelnairi.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Նաիրի\"",
+    "name:en": "\"Nairi \"Hotel",
+    "name:ru": "Наири Отель Ереван",
+    "phone": "+374 10 65 21 21, +374 10 65 41 41, +374 10 65 51 51, +374 55 88 03 35",
+    "rooms": "120",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.hotelnairi.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 1915405731,
+  "lat": 40.1800936,
+  "lon": 44.5152285,
+  "tags": {
+    "name": "Ավիատրանս հյուրանոց",
+    "name:de": "Hotel Aviatrans",
+    "name:en": "\"Aviatrans\" Hotel",
+    "name:ru": "Отель Авиатранс",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "www.hotelaviatrans.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1978350527,
+  "lat": 40.5552929,
+  "lon": 44.9876378,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2028390395,
+  "lat": 40.9820441,
+  "lon": 45.1876872,
+  "tags": {
+    "name": "Մայիսյան Կամուրջ",
+    "name:en": "Mayisyan Kamurdj Hotel",
+    "phone": "+374 93 405242",
+    "tourism": "hotel",
+    "website": "http://www.mkhotel.am/index.php?lang=en&page=0"
+  }
+},
+{
+  "type": "node",
+  "id": 2191652527,
+  "lat": 40.5245340,
+  "lon": 44.7084151,
+  "tags": {
+    "name": "Tsakhkadzor Sport Complex",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2239582070,
+  "lat": 39.2083472,
+  "lon": 46.4044381,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Darist",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2241986359,
+  "lat": 40.1066024,
+  "lon": 44.4667512,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "1",
+    "addr:street": "Երևան-Մեղրի ավտոմայրուղի",
+    "name": "«Կոնտինենտալ» հյուրանոցային համալիր",
+    "name:en": "\"Continental\" Hotel",
+    "name:ru": "\"Континенталь\" Гостиничный комплекс",
+    "phone": "+374 10 44 96 99,+374 10 49 96 99",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2245334243,
+  "lat": 39.5051477,
+  "lon": 46.3398571,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "53",
+    "addr:postcode": "3201",
+    "addr:street": "Մովսես խորենացի փողոց",
+    "internet_access": "wlan",
+    "name": "\"Goris\" Hotel",
+    "phone": "+374 284 3 00 03",
+    "smoking": "separated",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2245334250,
+  "lat": 39.4961867,
+  "lon": 46.3448820,
+  "tags": {
+    "name": "Hotel Lara",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2246021309,
+  "lat": 39.5284458,
+  "lon": 46.0270490,
+  "tags": {
+    "fixme": "presence",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2265581172,
+  "lat": 40.8048756,
+  "lon": 44.4998538,
+  "tags": {
+    "addr:city": "Վանաձոր",
+    "addr:housenumber": "1",
+    "addr:street": "Մաշտոցի փողոց",
+    "description:payment": "AMD5,900 (single)",
+    "email": "info@kirovakan-hotel.com",
+    "mobile": "+374 98417010",
+    "name": "Կիրովական",
+    "name:en": "\"Kirovakan\" Hotel",
+    "name:ru": "Гостиница \"Кировакан\"",
+    "phone": "+374 322 47010",
+    "tourism": "hotel",
+    "website": "http://www.hotelkirovakan.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2280775641,
+  "lat": 40.1793303,
+  "lon": 44.5103865,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "4/3",
+    "addr:postcode": "0010",
+    "addr:street": "Ամիրյան փողոց",
+    "email": "info@hotelnational.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Նացիոնալ հյուրանոց",
+    "name:de": "Hotel National",
+    "name:en": "“National” Hotel",
+    "name:ru": "Отель \"Национал\"",
+    "phone": "+374 10 57 40 00",
+    "rooms": "75",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://hotelnational.am"
+  }
+},
+{
+  "type": "node",
+  "id": 2290364865,
+  "lat": 40.1531412,
+  "lon": 44.6502772,
+  "tags": {
+    "name": "HYELANDZ ECO VILLAGE RESORT",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2300185506,
+  "lat": 40.1754480,
+  "lon": 44.5390834,
+  "tags": {
+    "name": "Hotel Panossian",
+    "phone": "+374 10655200",
+    "tourism": "hotel",
+    "website": "panossianhotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 2300185507,
+  "lat": 40.1846036,
+  "lon": 44.5329207,
+  "tags": {
+    "email": "reservation@hotelregineh.am",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "\"Regineh\" Hotel",
+    "name:en": "\"Regineh\" Hotel",
+    "name:hy": "«ՌԷԺԻՆԷ» ՀՅՈՒՐԱՆՈՑ",
+    "name:ru": "\"Режине\" Гостиница",
+    "phone": "+374 10 65 16 19",
+    "rooms": "60",
+    "tourism": "hotel",
+    "website": "http://www.hotelregineh.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2300185533,
+  "lat": 40.1828986,
+  "lon": 44.5355728,
+  "tags": {
+    "name": "Infantine sanatorium Nork",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2320358691,
+  "lat": 40.1594984,
+  "lon": 44.5090805,
+  "tags": {
+    "name": "\"Areg\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2323306174,
+  "lat": 40.9387721,
+  "lon": 44.4790553,
+  "tags": {
+    "ele": "1490",
+    "int_name": "Sochut pansionat",
+    "name": "\"Սոճուտ\" հանգստյան տուն",
+    "name:en": "''Sochut'' pansionat",
+    "name:ru": "''Сочут'' дом отдыха",
+    "phone": "+374 95 411195",
+    "tourism": "hotel",
+    "website": "http://www.sochut.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2333643720,
+  "lat": 40.1766367,
+  "lon": 44.5163532,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "48",
+    "addr:postcode": "0010",
+    "addr:street": "Հանրապետության փողոց",
+    "email": "historicyerevan@tufenkian.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "ԹՈՒՖԵՆԿՅԱՆ ԱՎԱՆԴԱԿԱՆ ԵՐԵՎԱՆ ՀՅՈՒՐԱՆՈՑ",
+    "name:en": "Tufenkian Historic Yerevan Hotel",
+    "name:ru": "\"Туфенкян\"",
+    "phone": "+374 60 50 10 30",
+    "tourism": "hotel",
+    "website": "https://tufenkianheritage.com/en/accommodation/historic-yerevan-hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2377623916,
+  "lat": 40.5342022,
+  "lon": 44.7083514,
+  "tags": {
+    "addr:city": "Ծաղկա‎ձոր",
+    "addr:housenumber": "22",
+    "addr:postcode": "2310",
+    "addr:street": "Տանձաղբյուր փողոց",
+    "name": "Edem hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2379810450,
+  "lat": 40.1923198,
+  "lon": 44.4986467,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "13",
+    "addr:postcode": "0019",
+    "addr:street": "Ջեյմս Բրայսի փողոց",
+    "email": "villarosa585@gmail.com, petrosyan@myhostel.am",
+    "internet_access": "wlan",
+    "name": "\"Villa Rosa\"",
+    "operator": "Grigori Petrosyan",
+    "phone": "+374 10 26 91 60,+374 91 26 91 60",
+    "rooms": "9",
+    "smoking": "isolated",
+    "tourism": "hotel",
+    "website": "http://www.villarosa.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2381172710,
+  "lat": 40.1935102,
+  "lon": 44.4826865,
+  "tags": {
+    "email": "info@olympia.am",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "«ՕԼԻՄՊԻԱ» ՀՅՈՒՐԱՆՈՑԱՅԻՆ ՀԱՄԱԼԻՐ",
+    "name:en": "\"OLIMPIA\" Hotel",
+    "name:ru": "\"Олимпиа\" Гостиница",
+    "phone": "+374 10 27 18 50",
+    "tourism": "hotel",
+    "website": "http://www.olympia.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2384776464,
+  "lat": 40.7844679,
+  "lon": 43.8289691,
+  "tags": {
+    "addr:city": "Гюмри",
+    "atm": "no",
+    "contact:email": "Voskeblur@mail.ru",
+    "internet_access": "no",
+    "name": "Гостиница Воскеблюр",
+    "opening_hours": "24/7",
+    "phone": "077646494??0312 58124",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2407256926,
+  "lat": 40.8160843,
+  "lon": 43.8273074,
+  "tags": {
+    "name": "Garun",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2464321381,
+  "lat": 40.4756787,
+  "lon": 44.5984197,
+  "tags": {
+    "name": "\"Best Western Aghveran\"",
+    "name:en": "\"Best Western Aghveran\"",
+    "name:hy": "«ԲԵՍԹ ՎԵՍԹԵՐՆ ԱՂՎԵՐԱՆ» ՀՅՈՒՐԱՆՈՑ",
+    "name:ru": "\"БЕСТ ВЕСТЕРН АГВЕРАН\"",
+    "phone": "+374 91 22 40 54 ,+374 226 6 21 39,+374 99 52 62 26",
+    "tourism": "hotel",
+    "website": "http://www.aghveranhotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 2497378810,
+  "lat": 40.0619950,
+  "lon": 44.4462329,
+  "tags": {
+    "addr:city": "Մասիս",
+    "addr:country": "AM",
+    "addr:street": "Արարատյան փողոց",
+    "addr:street:en": "Araratyan Street",
+    "addr:street:hy": "Արարատյան փողոց",
+    "name": "Մոթել",
+    "phone": "+37455889826",
+    "tourism": "hotel",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 2738043999,
+  "lat": 40.3697192,
+  "lon": 44.6506821,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2788521507,
+  "lat": 40.2045867,
+  "lon": 44.5565680,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:country": "AM",
+    "addr:housenumber": "59",
+    "addr:postcode": "0025",
+    "addr:street": "Մյասնիկյանի պողոտա",
+    "name": "\"Hotel Park\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2853656012,
+  "lat": 40.6959171,
+  "lon": 44.8526761,
+  "tags": {
+    "name": "\"Hagartsin\" Hotel",
+    "phone": "+374 268 2 77 70",
+    "tourism": "hotel",
+    "website": "www.haghartsin.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2853656013,
+  "lat": 40.6978952,
+  "lon": 44.8504526,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Best Western Paradise Hotel Dilijan",
+    "tourism": "hotel",
+    "website": "http://www.paradisehotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 2857062678,
+  "lat": 39.8423033,
+  "lon": 45.6749060,
+  "tags": {
+    "name": "\"Ani\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2922027250,
+  "lat": 40.7457166,
+  "lon": 44.8229623,
+  "tags": {
+    "addr:city": "Dilijan",
+    "addr:housenumber": "46",
+    "addr:street": "Abovyan",
+    "name": "Դարավանդ Հյուրատուն",
+    "name:en": "Daravand Guest House",
+    "name:hy": "Դարավանդ Հյուրատուն",
+    "tourism": "hotel",
+    "website": "http://daravand.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2933593869,
+  "lat": 40.7600948,
+  "lon": 44.9237607,
+  "tags": {
+    "name": "Villarest Hotel and Cottage Complex",
+    "phone": "+374 98 444409",
+    "tourism": "hotel",
+    "website": "http://villarest.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 2939897504,
+  "lat": 40.7392141,
+  "lon": 44.8407552,
+  "tags": {
+    "addr:city": "Դիլիջան",
+    "addr:housenumber": "66",
+    "addr:postcode": "3903",
+    "addr:street": "Գետափնյա փողոց",
+    "internet_access": "yes",
+    "name": "Dilijan Resort",
+    "phone": "+374 268 2 43 03",
+    "tourism": "hotel",
+    "website": "http://www.hoteldilijan.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2948937366,
+  "lat": 40.7339113,
+  "lon": 44.8678689,
+  "tags": {
+    "addr:city": "Դիլիջան",
+    "addr:country": "AM",
+    "addr:housenumber": "12a",
+    "addr:street": "Մյասնիկյան փողոց",
+    "name": "Dili Villa",
+    "name:hy": "Դիլի Վիլլա",
+    "phone": "+374 268 27059",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2948937368,
+  "lat": 40.7562656,
+  "lon": 44.9093022,
+  "tags": {
+    "name": "Impuls Dilijan Health Improving Complex",
+    "phone": "+374 268 22348",
+    "tourism": "hotel",
+    "website": "http://resort.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 2948937370,
+  "lat": 40.7452512,
+  "lon": 44.8821638,
+  "tags": {
+    "addr:city": "Դիլիջան",
+    "addr:country": "AM",
+    "addr:housenumber": "14",
+    "addr:street": "Orjonikidze 3rd alley",
+    "name": "Takht-House",
+    "phone": "+374 91 416620",
+    "tourism": "hotel",
+    "website": "http://www.takhthouse.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2948937371,
+  "lat": 40.7395605,
+  "lon": 44.8694803,
+  "tags": {
+    "name": "Tufenkian Old Dilijan Complex",
+    "name:en": "Tufenkian Old Dilijan Complex",
+    "phone": "+374 10 52 09 11",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2948943092,
+  "lat": 40.7553220,
+  "lon": 44.9063235,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2948943251,
+  "lat": 40.7515278,
+  "lon": 44.8782802,
+  "tags": {
+    "addr:city": "Դիլիջան",
+    "addr:country": "AM",
+    "addr:housenumber": "50",
+    "addr:street": "Սայաթ-Նովայի փողոց",
+    "name": "Դղյակ պանսիոն",
+    "phone": "+374 93 416811",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3008831283,
+  "lat": 40.5332829,
+  "lon": 44.7090334,
+  "tags": {
+    "name": "Viardo",
+    "phone": "+374 10 581757",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3015808082,
+  "lat": 40.4788353,
+  "lon": 45.0587316,
+  "tags": {
+    "name": "Արարատ",
+    "name:en": "Ararat",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3015809110,
+  "lat": 40.5106011,
+  "lon": 45.0013613,
+  "tags": {
+    "name": "Նոյ Լանդ",
+    "name:en": "Noy Land",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3059711276,
+  "lat": 40.4983681,
+  "lon": 44.5901501,
+  "tags": {
+    "name": "Ակադեմիական հանգստի տուն",
+    "name:en": "Academy rest house",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3152816201,
+  "lat": 40.5307656,
+  "lon": 44.7197838,
+  "tags": {
+    "name": "Bogart",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3152816205,
+  "lat": 40.5332012,
+  "lon": 44.7163135,
+  "tags": {
+    "name": "\"Ripa\"",
+    "tourism": "hotel",
+    "website": "http://www.ripa.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3152816241,
+  "lat": 40.5333883,
+  "lon": 44.7151409,
+  "tags": {
+    "name": "Viardo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3192655473,
+  "lat": 40.9920427,
+  "lon": 44.3813114,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Անտառային փողոց",
+    "name": "«Անահիտ» Ստեփանավանի Հանգստյան Տուն",
+    "name:en": "Anahit",
+    "name:ru": "Дом отдыха Анаит",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3254756802,
+  "lat": 40.1481387,
+  "lon": 45.2985399,
+  "tags": {
+    "name": "\"Siro Kenac\" Hotel Complex",
+    "phone": "094956575  094442021  093906607",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3337371354,
+  "lat": 40.4940942,
+  "lon": 44.5940214,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3337378804,
+  "lat": 40.4898123,
+  "lon": 44.5909431,
+  "tags": {
+    "email": "alpianvioletrhouse@yahoo.com",
+    "name": "Ալպիական Մանուշակ",
+    "name:en": "\"Alpiakan Manushak\"",
+    "phone": "+374 91 48 90 70",
+    "tourism": "hotel",
+    "website": "http://www.rest-house.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3337378805,
+  "lat": 40.5180075,
+  "lon": 44.5627621,
+  "tags": {
+    "email": "info@arthurs-hotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "«ԱՐԹՈՒՐՍ ԱՂՎԵՐԱՆ ՌԻԶՈՐԹ»",
+    "name:en": "\"Arthurs Aghveran Resort\"",
+    "note": "+374 91 79 12 27 +374 226 6 16 10",
+    "phone": "+374 55 55 45 40",
+    "rooms": "60",
+    "tourism": "hotel",
+    "website": "www.arthurs-hotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3337378806,
+  "lat": 40.4757447,
+  "lon": 44.6036988,
+  "tags": {
+    "fixme": "position",
+    "name": "Karin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3337378808,
+  "lat": 40.4988780,
+  "lon": 44.6084296,
+  "tags": {
+    "name": "Ոսկե գետակ",
+    "name:en": "\"Voske Getak\"",
+    "name:ru": "\"Воске Гетак\" Дом отдыха",
+    "phone": "+374 10 539650,+374 91 41 21 12",
+    "tourism": "hotel",
+    "website": "http://aghveran.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3337378809,
+  "lat": 40.4946516,
+  "lon": 44.6044090,
+  "tags": {
+    "fixme": "position",
+    "name": "Երեքնուկ",
+    "name:en": "\"Yereqnuk\"",
+    "name:ru": "\"ЕРЕКНУК\" АГВЕРАНСКИЙ ДОМ ОТДЫХА",
+    "phone": "+374 91 21 90 40,+374 91 21 90 44,+374 93 14 00 40",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3338617163,
+  "lat": 40.5145681,
+  "lon": 44.5615189,
+  "tags": {
+    "name": "Crystal resort Agveran",
+    "name:en": "\"Crystal Resort Aghveran\"",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3338617164,
+  "lat": 40.4962674,
+  "lon": 44.5930894,
+  "tags": {
+    "name": "Guest House Aghveran",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3370889932,
+  "lat": 40.1809835,
+  "lon": 44.5147751,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "10/1",
+    "addr:postcode": "0010",
+    "addr:street": "Հյուսիսային պողոտա",
+    "name": "\"North Avenue\" Hotel",
+    "smoking": "no",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3413180160,
+  "lat": 40.5290702,
+  "lon": 44.7195906,
+  "tags": {
+    "name": "Ալպինա",
+    "name:en": "Alpina",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3526589023,
+  "lat": 41.1812940,
+  "lon": 44.9977074,
+  "tags": {
+    "name": "Levon 2",
+    "name:hy": "Լևոն 2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3587869950,
+  "lat": 40.1815637,
+  "lon": 44.5111137,
+  "tags": {
+    "name": "Պարկ հյուրանոց",
+    "name:en": "Park Hotel",
+    "name:ru": "Парк Отель",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3645654415,
+  "lat": 40.1829299,
+  "lon": 44.4880987,
+  "tags": {
+    "name": "\"Orange\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3647794452,
+  "lat": 40.1775686,
+  "lon": 44.5384215,
+  "tags": {
+    "email": "booking@narehotel.net",
+    "internet_access": "wlan",
+    "name": "«ՆԱՐԵ» ՀՅՈՒՐԱՆՈՑ",
+    "name:en": "\"Nare\" Hotel",
+    "name:ru": "Гостиница \"Наре\"",
+    "phone": "+374 10 65 65 65",
+    "phone_1": "+374 10 65 65 00",
+    "rooms": "30",
+    "tourism": "hotel",
+    "website": "http://www.narehotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3648469842,
+  "lat": 40.1417177,
+  "lon": 45.3008887,
+  "tags": {
+    "name": "Ալաշկերտ",
+    "name:en": "Alashkert",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3666284396,
+  "lat": 40.2069790,
+  "lon": 44.5712371,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3687722564,
+  "lat": 40.3628417,
+  "lon": 44.2706350,
+  "tags": {
+    "name": "Ամբերդ Հյուրանոց",
+    "name:en": "Amberd Hotel",
+    "name:ru": "Отель Амберд",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3721978300,
+  "lat": 39.5553887,
+  "lon": 46.0056207,
+  "tags": {
+    "name:en": "Hotel Holiday Resort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3721978301,
+  "lat": 39.5748007,
+  "lon": 46.0011384,
+  "tags": {
+    "name:en": "Hotel Oasis",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3727177498,
+  "lat": 39.5135342,
+  "lon": 46.3419693,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "13",
+    "addr:postcode": "3203",
+    "addr:street": "Բակունց փողոց",
+    "internet_access:fee": "yes",
+    "name": "\"Zanger\" Hotel",
+    "phone": "+374 98 77 89 77",
+    "tourism": "hotel",
+    "website": "www.zanger.am"
+  }
+},
+{
+  "type": "node",
+  "id": 3734669853,
+  "lat": 40.5631185,
+  "lon": 44.9953068,
+  "tags": {
+    "description": "Гостиничный комплекс расположен на берегу высокогорного озера Севан. Комплекс занимает 17 га и имеет собственный Аквапарк, Клуб верховой езды, тенисные корты, волейбольную и баскетбольную площадки, Фитнесс клуб, закрытый бассейн с сауной. Вход в аквапарк",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Best Western Bohemian Resort",
+    "operator": "Best Western",
+    "smoking": "separated",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3736154064,
+  "lat": 39.5072410,
+  "lon": 46.3436985,
+  "tags": {
+    "name": "Christy",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3772024058,
+  "lat": 40.8904015,
+  "lon": 44.6052132,
+  "tags": {
+    "name": "Grand Ton",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3779212931,
+  "lat": 40.6363519,
+  "lon": 44.4922030,
+  "tags": {
+    "email": "eleonoraresort@bk.ru",
+    "name": "նաիրի սպա րիզօրթս",
+    "name:en": "Nairi Spa Resorts",
+    "phone": "077688824",
+    "tourism": "hotel",
+    "website": "http://eleonoraresort.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3787365679,
+  "lat": 41.0085512,
+  "lon": 44.3845149,
+  "tags": {
+    "name": "Լոռի",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3831124027,
+  "lat": 40.2340062,
+  "lon": 44.4386613,
+  "tags": {
+    "name": "Կովկաս Ռեստորանային Համալիր",
+    "name:en": "\"Caucasus\" Hotel",
+    "name:hy": "Կովկաս Ռեստորանային Համալիր",
+    "name:ru": "Гостиничный комплекс «Кавказ»",
+    "phone": "+374 60 50 11 77",
+    "tourism": "hotel",
+    "website": "https://caucasus.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 3847650749,
+  "lat": 40.1517866,
+  "lon": 44.5036338,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "116",
+    "addr:street": "Սևանի փողոց",
+    "name": "Արցախ հյուրանոց",
+    "name:en": "\"Artsakh\" Hotel",
+    "name:hy": "Արցախ հյուրանոց",
+    "name:ru": "Гостиница \"Арцах\"",
+    "phone": "+374 10 44 99 39",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3847701238,
+  "lat": 40.1719803,
+  "lon": 44.5083480,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "4/2",
+    "addr:postcode": "0015",
+    "addr:street": "Գրիգոր Լուսավորչի փողոց",
+    "brand": "Hilton",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/DoubleTreeYerevan",
+    "contact:twitter": "https://twitter.com/DoubleTreeYer",
+    "email": "Evnye.hotel@hilton.com",
+    "fax": "+374 11 55 33 55",
+    "internet_access": "wlan",
+    "name": "DoubleTree by Hilton Hotel Yerevan City Centre",
+    "name:en": "DoubleTree by Hilton Hotel Yerevan City Centre",
+    "opening_hours": "24/7",
+    "operator": "Hilton",
+    "phone": "+374 11 55 53 33",
+    "rooms": "176",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://doubletree3.hilton.com/en/hotels/armenia/doubletree-by-hilton-hotel-yerevan-city-centre-EVNYEDI/index.html?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6EVNYEDI",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3859547257,
+  "lat": 40.5306591,
+  "lon": 44.7269548,
+  "tags": {
+    "addr:city": "Ծաղկաձոր",
+    "addr:housenumber": "10",
+    "addr:postcode": "2310",
+    "addr:street": "Իսահակյան փողոց",
+    "name": "\"Nur\" Hotel Tsaghkadzor",
+    "phone": "+374 94 687 094",
+    "smoking": "outside",
+    "tourism": "hotel",
+    "website": "nurhotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3926730394,
+  "lat": 40.6372130,
+  "lon": 44.4932062,
+  "tags": {
+    "name": "Nairi Spa Hotel",
+    "phone": "+374 11 345678",
+    "tourism": "hotel",
+    "website": "https://nairisparesorts.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 3931863686,
+  "lat": 40.1802742,
+  "lon": 44.5109849,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "4/6",
+    "addr:postcode": "0010",
+    "addr:street": "Ամիրյան փողոց",
+    "email": "info@14hotel.com",
+    "name": "\"14th floor\"",
+    "phone": "+374 60 56 00 00,+374 44 50 02 05",
+    "tourism": "hotel",
+    "website": "http://www.14hotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4042776991,
+  "lat": 40.5296179,
+  "lon": 44.6964152,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Գոլդեն Փելիս Ռեզորթ և ՍՊԱ",
+    "name:en": "Golden Palace Resort & SPA",
+    "phone": "+ 374 (223) 5 99 99",
+    "smoking": "yes",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://goldenpalace.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4110068992,
+  "lat": 40.2154128,
+  "lon": 44.4388764,
+  "tags": {
+    "name": "Թերջյան հյուրանոց",
+    "name:en": "\"Terjyan\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4112041294,
+  "lat": 40.1805178,
+  "lon": 44.5098601,
+  "tags": {
+    "internet_access": "wifi",
+    "internet_access:fee": "no",
+    "name": "«ՍԻԹԻ ՍԵՆԹՐ ՀՈԹԵԼ»",
+    "name:en": "\"City Centre Hotel\"",
+    "name:hy": "«ՍԻԹԻ ՍԵՆԹՐ ՀՈԹԵԼ»",
+    "phone": "+374 11 71 67 17",
+    "phone_1": "+374 55 40 40 94",
+    "tourism": "hotel",
+    "website": "www.citycentre.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4131034590,
+  "lat": 39.3932311,
+  "lon": 46.2785140,
+  "tags": {
+    "name": "Հարսնաձոր",
+    "name:en": "Harsnadzor",
+    "phone": "+37494102122",
+    "tourism": "hotel",
+    "website": "https://www.booking.com/app_link/hotel/am/harsnadzor.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4140146173,
+  "lat": 40.8028737,
+  "lon": 43.8484838,
+  "tags": {
+    "addr:city": "Gyumri",
+    "addr:housenumber": "1/5",
+    "addr:postcode": "3103",
+    "addr:street": "Garegin Njdeh Ave",
+    "name": "Nane Hotel",
+    "name:hy": "ՆԱՆԷ ՀՈԹԵԼ",
+    "name:ru": "Гостиница \"Нанэ\"",
+    "phone": "+374 312 5 51 51, +374 312 3 33 69",
+    "tourism": "hotel",
+    "website": "http://gcc.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4144054089,
+  "lat": 40.5350981,
+  "lon": 44.9454944,
+  "tags": {
+    "name": "\"Van\" Hotel",
+    "phone": "091346116",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4165341089,
+  "lat": 40.2308264,
+  "lon": 44.5439487,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "27/7",
+    "addr:postcode": "0091",
+    "addr:street": "Թբիլիսյան խճուղի",
+    "description": "Restaurant and Hotel Complex",
+    "name": "«ԷՐԶՐՈՒՄ»",
+    "name:en": "\"Erzrum\"",
+    "name:ru": "\"Ерзрум\"",
+    "phone": "+374 10 29 90 02",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4172439490,
+  "lat": 40.1484753,
+  "lon": 45.3009019,
+  "tags": {
+    "name": "Siro Kenac",
+    "phone": "094956575",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4178675988,
+  "lat": 40.1747634,
+  "lon": 44.5119794,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "8",
+    "addr:postcode": "0010",
+    "addr:street": "Մհեր Մկրտչյան փողոց",
+    "name": "MINOTEL BARSAM SUITES",
+    "name:hy": "ՄԻՆՕՏԵԼ ԲԱՐՍԱՄ ՍՅՈՒԻԹՍ",
+    "name:ru": "МИНОТЕЛЬ БАРСАМ СЮИТС",
+    "operator": "MINOTEL",
+    "phone": "+374 10 56 75 67",
+    "tourism": "hotel",
+    "website": "http://barsamsuites.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4198267795,
+  "lat": 40.5370646,
+  "lon": 44.6949942,
+  "tags": {
+    "addr:city": "Ծաղկա‎ձոր",
+    "addr:housenumber": "40",
+    "addr:street": "Տանձաղբյուր փողոց",
+    "email": "hotelalva2000@gmail.com",
+    "internet_access": "wlan",
+    "name": "Best Western Alva Hotel & SPA",
+    "opening_hours": "24/7",
+    "phone": "+374 93 41 51 02",
+    "tourism": "hotel",
+    "website": "www.hotelalva.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4199292747,
+  "lat": 39.5062565,
+  "lon": 46.3456074,
+  "tags": {
+    "name": "NarVar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4204165690,
+  "lat": 39.6953952,
+  "lon": 45.5733782,
+  "tags": {
+    "internet_access": "wlan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4204988693,
+  "lat": 40.3509054,
+  "lon": 45.1278525,
+  "tags": {
+    "name": "\"Xaldi\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4205057704,
+  "lat": 40.3505966,
+  "lon": 45.1277697,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4207951622,
+  "lat": 40.2046408,
+  "lon": 44.5549316,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "33",
+    "addr:postcode": "0035",
+    "addr:street": "Ռուբինյանց փողոց",
+    "internet_access": "wlan",
+    "name": "ՍՎԱ Հյուրանոց",
+    "name:en": "SVA Hotel",
+    "name:ru": "\"СВА\" Гостиница",
+    "opening_hours": "24/7",
+    "operator": "Manvel Danielyan",
+    "phone": "+374 43 39 39 39",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4208927890,
+  "lat": 39.2069454,
+  "lon": 46.4009358,
+  "tags": {
+    "name": "\"Golden Kapan\"",
+    "phone": "+374 77 20 20 77",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4210719291,
+  "lat": 40.7699089,
+  "lon": 44.5936838,
+  "tags": {
+    "email": "info@tezhler.am",
+    "internet_access": "wlan",
+    "name": "Թեժ Լեռ",
+    "name:en": "Tezh Ler Resort",
+    "note": "v.Shahumyan, 24th km of Dilijan - Vanadzor Highway",
+    "opening_hours": "24/7",
+    "phone": "+374 92 59 99",
+    "tourism": "hotel",
+    "website": "www.tezhler.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4218659991,
+  "lat": 40.1910289,
+  "lon": 44.5025722,
+  "tags": {
+    "email": "bassboutiquehotel@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Բասս  հյուրանոց",
+    "name:en": "\"Bass Boutiques\" Hotel",
+    "name:hy": "Բասս  հյուրանոց",
+    "name:ru": "Гостиница \"Басс\"",
+    "phone": "+374 10 26  10 80,+374 10 22 13 53,+374 10 26 27 51",
+    "rooms": "41",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.bass.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4219916695,
+  "lat": 40.5410602,
+  "lon": 44.7713983,
+  "tags": {
+    "name": "кристалл",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4224268890,
+  "lat": 40.7415681,
+  "lon": 44.8375095,
+  "tags": {
+    "addr:city": "Դիլիջան",
+    "addr:housenumber": "250",
+    "addr:street": "Կալինինի փողոց",
+    "internet_access": "wlan",
+    "name": "Միմինո",
+    "name:en": "Mimino",
+    "name:hy": "Միմինո",
+    "name:ru": "Мимино",
+    "phone": "+37498082440",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4225177390,
+  "lat": 39.8353066,
+  "lon": 45.6651542,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "3701",
+    "addr:street": "Շահումյան փողոց",
+    "name": "Evmari Hotel",
+    "phone": "(0287) 21814",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4232347394,
+  "lat": 40.1893567,
+  "lon": 44.5123689,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "3",
+    "addr:postcode": "0019",
+    "addr:street": "Ռաֆայել Լեմկինի փողոց",
+    "email": "info@operasuitehotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Օպերա Սուիթ հյուրանոց",
+    "name:en": "Opera Suite Hotel",
+    "name:ru": "Опера Сюит отель",
+    "opening_hours": "24/7",
+    "phone": "+374 10 56 60 10",
+    "rooms": "106",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.operasuitehotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4237303992,
+  "lat": 40.1823064,
+  "lon": 44.4985875,
+  "tags": {
+    "description": "Modern design with a rich heritage, extensive facilities and incomparable service levels extend their welcome to the most luxurios Hotel Forum in the heart of the Yerevan City, conveniently located only 20 minutes from Zvartnots Armenian International Air",
+    "email": "info@hotelforum.am",
+    "fax": "+374 10 50 17 30",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "Forum",
+    "name": "Ֆորում",
+    "name:en": "\"Forum\" Hotel",
+    "name:ru": "\"Форум\" Гостиница",
+    "operator": "Forum Hotel",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+374 10 50 17 40",
+    "rooms": "25",
+    "smoking": "separated",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://hotelforum.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4250075026,
+  "lat": 40.5099886,
+  "lon": 44.9872567,
+  "tags": {
+    "name": "Noy Land Resort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4253482289,
+  "lat": 40.1844826,
+  "lon": 45.7307209,
+  "tags": {
+    "addr:city": "Վարդենիս",
+    "addr:postcode": "1601",
+    "addr:street": "Romani",
+    "internet_access": "wlan",
+    "name": "\"GRIG\" Hotel",
+    "phone": "+37494312000",
+    "tourism": "hotel",
+    "website": "http://grighall.do.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4257825489,
+  "lat": 40.5537621,
+  "lon": 44.9874967,
+  "tags": {
+    "addr:housenumber": "Սեվան Լճափ 1",
+    "addr:street": "M-4",
+    "name": "Բեղլու",
+    "name:en": "Bexlu",
+    "name:ru": "Bexlu",
+    "opening_hours": "24/7",
+    "operator": "Վաչագան Խաչատրյան Vachagan Khachatryan",
+    "phone": "+37493900036",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4258665192,
+  "lat": 38.8586009,
+  "lon": 46.2097726,
+  "tags": {
+    "name": "Elya Budget Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4258696690,
+  "lat": 38.8652563,
+  "lon": 46.1958408,
+  "tags": {
+    "name": "Hotel Rio",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4259037589,
+  "lat": 40.1543635,
+  "lon": 44.5202397,
+  "tags": {
+    "name": "Benefice Mini-Hotel",
+    "phone": "+374 11 770737",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4259037689,
+  "lat": 40.1896777,
+  "lon": 44.5294972,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "16/4",
+    "addr:postcode": "0025",
+    "addr:street": "Մխիթար Հերացի փողոց",
+    "name": "\"Comfort House\" Hotel",
+    "phone": "+374 99 96 96 73",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4274712990,
+  "lat": 40.7696421,
+  "lon": 44.6736556,
+  "tags": {
+    "name:ar": "نايرو",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4303707096,
+  "lat": 40.5097719,
+  "lon": 44.9798617,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Burger",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4310497692,
+  "lat": 39.5114762,
+  "lon": 46.3443319,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "22/1",
+    "addr:postcode": "3203",
+    "addr:street": "Գարեգին Նժդեհ փողոց",
+    "internet_access": "wlan",
+    "name": "\"Kyores\" Hotel",
+    "opening_hours": "24/7",
+    "phone": "+374 284 3 00 12",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4317847391,
+  "lat": 40.1643042,
+  "lon": 44.4645587,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "155",
+    "addr:postcode": "0068",
+    "addr:street": "Սեբաստիայի փողոց",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Armenia De Luxe\"",
+    "phone": "+374 10 77 99 00;+374 10 77 00 55",
+    "rooms": "4",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4318737691,
+  "lat": 40.1695288,
+  "lon": 44.5082642,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "3/2",
+    "addr:street": "Արշակունյաց պողոտա",
+    "email": "semhotelyerevan@gmail.com",
+    "internet_access": "wlan",
+    "name": "\"SEM\" HOTEL",
+    "opening_hours": "24/7",
+    "phone": "+374 91 52 90 50",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4331347599,
+  "lat": 40.1657731,
+  "lon": 44.5103017,
+  "tags": {
+    "name": "Sil plaza",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4332654502,
+  "lat": 40.1964355,
+  "lon": 44.5852602,
+  "tags": {
+    "fixme": "type, love hotel?",
+    "name": "Նիագարա",
+    "name:en": "\"Niagara\"",
+    "name:ru": "\"Ниагара\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4336593091,
+  "lat": 40.9907365,
+  "lon": 44.3815698,
+  "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "Antarayin",
+    "name": "Վահագն Ռեզորթ",
+    "name:en": "Vahagn Resort",
+    "name:ru": "Ваагн Резорт",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4342096991,
+  "lat": 39.4129944,
+  "lon": 46.2985231,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Hotel Halidzor",
+    "phone": "+37494361709",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4352505703,
+  "lat": 40.2002702,
+  "lon": 44.5302896,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "\"Paloma\"",
+    "phone": "+374 10 20 30 00",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4368031295,
+  "lat": 40.9184578,
+  "lon": 45.0810984,
+  "tags": {
+    "addr:postcode": "4008",
+    "internet_access": "wlan",
+    "name": "ԱԼԱՆԴ ռեզորտ",
+    "name:en": "ALAND resort",
+    "name:hy": "ԱԼԱՆԴ ռեզորտ",
+    "name:ru": "АЛАНД резорт",
+    "opening_hours": "24/7",
+    "phone": "+37477820080",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4373270162,
+  "lat": 39.5129045,
+  "lon": 46.3399894,
+  "tags": {
+    "name": "Mthnadzor Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4377075293,
+  "lat": 41.0933398,
+  "lon": 44.7109397,
+  "tags": {
+    "internet_access": "yes",
+    "internet_access:ssid": "Haghpat Hotel",
+    "name": "Հաղպատ Հյուրանոցային Համալիր",
+    "name:ru": "Axпат",
+    "rooms": "7",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4377083747,
+  "lat": 40.7569775,
+  "lon": 44.8517141,
+  "tags": {
+    "name": "Էկո Կայան Դիլիջան",
+    "name:en": "Eco Station Dilijan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4408406255,
+  "lat": 39.7609113,
+  "lon": 45.3305531,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4413144896,
+  "lat": 40.5331352,
+  "lon": 44.7078355,
+  "tags": {
+    "name:en": "\"TSAGHKATUN\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4414803092,
+  "lat": 38.9092168,
+  "lon": 46.2394518,
+  "tags": {
+    "name": "Haer B&B",
+    "name:hy": "Haer B&B",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4430774289,
+  "lat": 40.1761317,
+  "lon": 44.5128376,
+  "tags": {
+    "email": "yerevan.place@hyatt.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Hyatt Place\" Hotel",
+    "name:en": "\"Hyatt Place\" Hotel",
+    "phone": "+374 11 22 12 34",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4432068467,
+  "lat": 40.1769500,
+  "lon": 44.5262528,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "13",
+    "addr:postcode": "0070",
+    "addr:street": "Շարա Թալյան փողոց",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "\"Mia Casa\"",
+    "name:en": "\"Mia Casa\"",
+    "name:hy": "Միա Կասա",
+    "name:ru": "\"Миа Каса\"",
+    "operator": "Mia Casa LLC",
+    "phone": "+374 11 35 53 55",
+    "rooms": "9",
+    "smoking": "outside",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.miacasa.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4434410397,
+  "lat": 40.1797663,
+  "lon": 44.5104670,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "4/6",
+    "addr:postcode": "0010",
+    "addr:street": "Ամիրյան փողոց",
+    "email": "info@parishotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Փարիզ հյուրանոց",
+    "name:en": "\"Paris\"  Hotel",
+    "name:hy": "Փարիզ հյուրանոց",
+    "name:ru": "\"Париж\" Отель",
+    "note": "Viber: + 374 95 55 03 86",
+    "phone": "+374 10 60 30 00",
+    "rooms": "65",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://parishotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4461937895,
+  "lat": 40.1818657,
+  "lon": 44.5293638,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "3",
+    "addr:street": "Այգեստանի 10րդ փողոց",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4469659590,
+  "lat": 40.5334252,
+  "lon": 44.7497831,
+  "tags": {
+    "addr:city": "Ծաղկաձոր",
+    "addr:housenumber": "54",
+    "addr:street": "Մհեր Մկրտչյան փողոց",
+    "internet_access": "wlan",
+    "name": "Արարատ Ռեզորտ (Ծաղկա‎ձոր)",
+    "name:en": "\"Ararat Resort\" (Tsakhkadzor)",
+    "name:hy": "Արարատ Ռեզորտ (Ծաղկա‎ձոր)",
+    "name:ru": "\"Арарат Резорт\" (Цахкадзор)",
+    "opening_hours": "24/7",
+    "phone": "+374 55 50 45 04",
+    "tourism": "hotel",
+    "website": "http://araratresort.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4500043789,
+  "lat": 39.8365817,
+  "lon": 45.6661878,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "hotel \"Anush\"",
+    "name:ru": "гостиница \"Ануш\"",
+    "opening_hours": "24/7",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4520847196,
+  "lat": 40.5289454,
+  "lon": 44.7168158,
+  "tags": {
+    "email": "info@mrh.am",
+    "name": "\"Multi Rest House\" Hotel",
+    "name:en": "\"Multi Rest House\" Hotel",
+    "phone": "+374 94 28 74 50, +374 10 28 74 60, +374 10 28 74 50",
+    "tourism": "hotel",
+    "website": "http://mrh.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4520942664,
+  "lat": 39.6918858,
+  "lon": 45.5412951,
+  "tags": {
+    "name": "Թագուհի",
+    "name:en": "\"Taguhi\"",
+    "name:hy": "Թագուհի",
+    "name:ru": "\"Тагуи\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4536091691,
+  "lat": 40.7093169,
+  "lon": 44.8501692,
+  "tags": {
+    "name:en": "Villa Jrvezh",
+    "name:ru": "Вилла Джрвеж",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4543655291,
+  "lat": 40.1910447,
+  "lon": 44.5990742,
+  "tags": {
+    "fixme": "position",
+    "name:en": "jrvezh",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4543673089,
+  "lat": 40.1903928,
+  "lon": 44.5986822,
+  "tags": {
+    "fixme": "position",
+    "name:en": "Sochi palace",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4577004589,
+  "lat": 39.2043852,
+  "lon": 46.3964612,
+  "tags": {
+    "addr:city": "Կապան",
+    "addr:housenumber": "6",
+    "addr:postcode": "3306",
+    "addr:street": "Շինարարների փողոց",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Grant House\" Hotel Kapan",
+    "name:en": "\"Grant House\" Hotel Kapan",
+    "phone": "+374 285-21200 , +374 93 21 20 00",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4624135943,
+  "lat": 40.1880043,
+  "lon": 44.6064065,
+  "tags": {
+    "name": "\"Vaspurakan\"",
+    "phone": "+374 93 63 36 63",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4679986224,
+  "lat": 40.1981303,
+  "lon": 44.5212019,
+  "tags": {
+    "name": "\"Arevik\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4691055836,
+  "lat": 40.2061664,
+  "lon": 44.5609345,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "40",
+    "addr:postcode": "0025",
+    "addr:street": "Մյասնիկյանի պողոտա",
+    "name": "«ՎԱԼԵՆՍԻԱ» ՀՅՈՒՐԱՆՈՑԱՅԻՆ ՀԱՄԱԼԻՐ",
+    "name:en": "\"VALENSIA\" HOTEL COMPLEX",
+    "phone": "+374 10 52 40 00",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4704187498,
+  "lat": 40.1865688,
+  "lon": 44.5087192,
+  "tags": {
+    "email": "info@royalplaza.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Ռոյալ Պլազա",
+    "name:en": "Royal Plaza",
+    "name:ru": "\"Роял Плаза\"",
+    "note": "For booking +374 10 54 39 99",
+    "phone": "+374 10 50 50 00",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.royalplaza.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4719070360,
+  "lat": 40.1753090,
+  "lon": 44.5343406,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "«ՊԱՆՈՐԱՄԱ ԵՐԵՎԱՆ ՌԵԶՈՐԹ» ՀՅՈՒՐԱՆՈՑ",
+    "name:en": "Panorama Yerevan Resort Hotel",
+    "phone": "+374 60 27 57 37",
+    "tourism": "hotel",
+    "website": "https://www.panoramayerevan.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4724479956,
+  "lat": 40.2103041,
+  "lon": 44.5515769,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "29/14",
+    "addr:street": "Ռուբինյանց փողոց նրբ",
+    "internet_access": "wlan",
+    "name": "Հռոմ",
+    "name:en": "Roma Hotel",
+    "name:ru": "Рим",
+    "phone": "+374 10 20 00 20",
+    "tourism": "hotel",
+    "website": "http://hotelroma.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4728198844,
+  "lat": 40.1868851,
+  "lon": 44.5342363,
+  "tags": {
+    "name": "\"Villa des Roses Hotel\"",
+    "name:en": "\"Villa des Roses Hotel\"",
+    "name:ru": "Вилла Дес Роузис",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4735875576,
+  "lat": 40.8744692,
+  "lon": 45.1435330,
+  "tags": {
+    "fixme": "position",
+    "name": "Dok",
+    "name:en": "Dok",
+    "phone": "+374 10 25 31 41.",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4735875577,
+  "lat": 40.8677030,
+  "lon": 45.1363125,
+  "tags": {
+    "fixme": "position",
+    "internet_access": "wlan",
+    "name": "Օթևան",
+    "name:en": "Othevan",
+    "phone": "+374 77 203088",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4746683083,
+  "lat": 40.2055064,
+  "lon": 44.5231430,
+  "tags": {
+    "name": "Granada",
+    "name:en": "Granada",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772289119,
+  "lat": 40.1771462,
+  "lon": 44.5156720,
+  "tags": {
+    "name": "\"Royal Classic House\"",
+    "name:ru": "\"РОЯЛ КЛАССИК ХАУЗ\"",
+    "phone": "+374 60 53 30 30",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4802110688,
+  "lat": 40.1944161,
+  "lon": 44.5422819,
+  "tags": {
+    "name": "\"Ritzar\" Hotel",
+    "name:en": "\"Ritzar\" Hotel",
+    "name:hy": "Ռիցար",
+    "name:ru": "\"РЫЦАРЬ\" Гостиница",
+    "phone": "+374 10 54 74 10;+374 10 54 74 20;+374 10 54 74 30",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4802239276,
+  "lat": 40.1951709,
+  "lon": 44.5465383,
+  "tags": {
+    "email": "info@ibiza-hotel.am",
+    "name": "\"IBIZA\" Hotel Sauna",
+    "name:hy": "ԻԲԻՑԱ",
+    "name:ru": "\"ИБИЦА\"",
+    "phone": "+374 10 60 01 01;+374 10 60 02 02;+374 11 57 00 20",
+    "tourism": "hotel",
+    "website": "http://www.ibiza-hotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4802301495,
+  "lat": 40.1878971,
+  "lon": 44.5120691,
+  "tags": {
+    "name": "\"Moskovyan Plaza\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4814082537,
+  "lat": 40.1922454,
+  "lon": 44.5327203,
+  "tags": {
+    "email": "info@bellagio.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Բելաջիո հյուրանոց",
+    "name:en": "\"Bellagio\" Hotel",
+    "name:hy": "Բելաջիո հյուրանոց",
+    "name:ru": "Беладжио",
+    "phone": "+374 10 55 89 89",
+    "rooms": "14",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "http://www.bellagio.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4815428243,
+  "lat": 40.2086507,
+  "lon": 44.5314364,
+  "tags": {
+    "name": "\"ԼՈՒՅՍ ԱՂԲՅՈՒՐ\"",
+    "name:en": "\"Luys Aghbyur\"",
+    "name:ru": "\"ЛУЙС АХБЮР\"",
+    "phone": "+374 10 20 04 92,+374 96 28 45 41",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4816006195,
+  "lat": 40.2026017,
+  "lon": 44.5319941,
+  "tags": {
+    "name": "Galaxy Global Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4816006330,
+  "lat": 40.2027134,
+  "lon": 44.5318118,
+  "tags": {
+    "name": "New Regence Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4817862496,
+  "lat": 39.7318186,
+  "lon": 45.2142178,
+  "tags": {
+    "description:payment": "AMD5,000 (single)",
+    "name": "Park-Hotel Khoren's Lake",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4817862503,
+  "lat": 39.5095766,
+  "lon": 46.3387427,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "65",
+    "addr:street": "Սյունիք փողոց",
+    "description:payment": "AMD5,100 (single)",
+    "email": "vazo2004@rambler.ru,  karamyanvahram@gmail.com",
+    "name": "\"VIVAS\" Hotel",
+    "phone": "+374 284 2 48-12, +374 284 2 11 33",
+    "tourism": "hotel",
+    "website": "http://www.vivas.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4817862855,
+  "lat": 39.7609198,
+  "lon": 45.3312468,
+  "tags": {
+    "description:payment": "AMD5,500 (single)",
+    "name": "\"Hotel Gladzor\"",
+    "phone": "+374 281 2 51 65,+374 281 2 40 83",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4817863222,
+  "lat": 40.8806898,
+  "lon": 45.1450291,
+  "tags": {
+    "description:payment": "AMD5,000-10,000",
+    "email": "moshhotel@mail.ru",
+    "name": "\"Mosh\" Hotel",
+    "phone": "+374 91 45 24 63,+374 263 3 56 11",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4818408774,
+  "lat": 38.9022615,
+  "lon": 46.2424178,
+  "tags": {
+    "addr:city": "Մեղրի",
+    "addr:housenumber": "7",
+    "addr:postcode": "3401",
+    "addr:street": "Adelyan St.",
+    "description": "Small, very clean, western standard hotel.",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel Family",
+    "phone": "077506516",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4854251740,
+  "lat": 40.1833538,
+  "lon": 44.5196305,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "19",
+    "addr:postcode": "0001",
+    "addr:street": "Սայաթ-Նովայի պողոտա",
+    "email": "info@anihotel.com",
+    "fax": "+374 10 56 53 43",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Անի Պլազա հյուրանոց\"",
+    "name:en": "\"Ani Plaza\" Hotel",
+    "name:hy": "\"Անի Պլազա հյուրանոց\"",
+    "name:ru": "\"Ани Плаза\" Гостиница",
+    "note": "reservation@anihotel.am, sales@anihotel.am\nReservation:+374 10 59 45 77",
+    "opening_hours": "24/7",
+    "phone": "+374 10 58 95 00,+374 10 58 97 00",
+    "rooms": "260",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "anihotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4877349311,
+  "lat": 39.5576335,
+  "lon": 46.0076360,
+  "tags": {
+    "name": "Azoyan Holiday Resort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4892324563,
+  "lat": 40.2089610,
+  "lon": 44.5623835,
+  "tags": {
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "\"Միրաժ\" հյուրանոց",
+    "name:en": "\"Mirage\" Hotel",
+    "name:ru": "\"Мираж\" Гостиница",
+    "phone": "+374 10 62 90 00, +374 99 62 90 00",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4897232108,
+  "lat": 40.1702804,
+  "lon": 44.5166405,
+  "tags": {
+    "name": "\"Bella\" Hotel",
+    "name:de": "Bella",
+    "phone": "+374 10 54 88 83;+374 10 54 02 25",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4905443134,
+  "lat": 40.2538252,
+  "lon": 44.5924102,
+  "tags": {
+    "email": "info@pharaon.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Pharaon Complex\"",
+    "operator": "MULTI GRAND HOTEL",
+    "phone": "+374 10 20 15 81,+374 99 20 15 81,+374 10 20 15 82,+374 99 20 15 82",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://pharaon.am"
+  }
+},
+{
+  "type": "node",
+  "id": 4909300036,
+  "lat": 40.3144628,
+  "lon": 44.5850129,
+  "tags": {
+    "email": "arzniresort@mail.ru",
+    "leisure": "resort",
+    "name": "\"Arzni Resort\"",
+    "name:ru": "Санаторий Арзни",
+    "phone": "+374 93 88 88 05,+374 10 27 41 77,+374 222 6 31 09",
+    "tourism": "hotel",
+    "website": "https://www.arzniresort.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 4918020522,
+  "lat": 40.7834904,
+  "lon": 43.8458314,
+  "tags": {
+    "addr:city": "Գյումրի",
+    "addr:housenumber": "25",
+    "addr:postcode": "3104",
+    "addr:street": "Հաղթանակի պողոտա",
+    "email": "info@berlinhotel-gyumri.am",
+    "name": "Բեռլին Արտ Հոտել",
+    "name:en": "\"Berlin Art\" Hotel",
+    "name:hy": "Բեռլին Արտ Հոտել",
+    "name:ru": "\"Berlin Art\" Hotel",
+    "phone": "+374 312 5 76 59,",
+    "rooms": "15",
+    "tourism": "hotel",
+    "website": "http://www.berlinarthotel.am",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4932414622,
+  "lat": 40.3733431,
+  "lon": 44.2648273,
+  "tags": {
+    "name:en": "Garoon Resor",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4938169662,
+  "lat": 39.2513886,
+  "lon": 46.4058054,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4938169665,
+  "lat": 39.2550347,
+  "lon": 46.3930885,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4938169666,
+  "lat": 39.2632506,
+  "lon": 46.3843230,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4964418197,
+  "lat": 40.1528238,
+  "lon": 44.4747001,
+  "tags": {
+    "name": "Sharp Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4975689540,
+  "lat": 39.6885400,
+  "lon": 45.5203612,
+  "tags": {
+    "name": "Որսկան",
+    "name:en": "\"Vorskan\"",
+    "name:hy": "Որսկան",
+    "name:ru": "\"Ворскан\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4996834593,
+  "lat": 40.1690741,
+  "lon": 44.5131431,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "20/2",
+    "addr:postcode": "0018",
+    "addr:street": "Տիգրան Մեծի պողոտա",
+    "email": "reservation@hotelsilachi.am",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Սիլաչի",
+    "name:en": "\"Silachi\" Hottel",
+    "name:hy": "Սիլաչի",
+    "name:ru": "\"Silachi\" Hottel",
+    "phone": "+374 10 54 07 08 , +374 10 54 07 09",
+    "rooms": "115",
+    "tourism": "hotel",
+    "website": "https://hotelsilachi.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 5009949574,
+  "lat": 40.4113983,
+  "lon": 45.4705430,
+  "tags": {
+    "name": "Avan Marak Tsapatagh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5009954894,
+  "lat": 39.5019961,
+  "lon": 46.3316418,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "25",
+    "addr:postcode": "3202",
+    "addr:street": "Երևանյան խճուղի",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Զորաց Աղբյուր",
+    "name:en": "Zorats Akhbyur Hotel",
+    "name:hy": "Զորաց Աղբյուր",
+    "name:ru": "\"Зорац Ахбюр\"",
+    "phone": "+374 98 95 28 92,+374 284 6 00 60",
+    "tourism": "hotel",
+    "website": "https://hotelzoracaghbyur.voodoo.pro"
+  }
+},
+{
+  "type": "node",
+  "id": 5017543177,
+  "lat": 40.1910516,
+  "lon": 44.4715440,
+  "tags": {
+    "name": "\"Valem Plaza\" Hotel",
+    "phone": "+374 10 39 95 07,+374 99 39 95 07",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5017543178,
+  "lat": 40.1910183,
+  "lon": 44.4711915,
+  "tags": {
+    "name": "\"Versal-Europe\" Hotel",
+    "phone": "+374 91 33 01 50,+374 10 38 03 03,+374 10 38 03 30",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5017653070,
+  "lat": 40.1900676,
+  "lon": 44.4686870,
+  "tags": {
+    "name": "Նուռ",
+    "name:en": "\"Nur\" Hotel",
+    "name:ru": "\"Нур\" Гостиница",
+    "phone": "+374 10 39 21 23, +374 10 39 21 26",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5018122406,
+  "lat": 40.1911354,
+  "lon": 44.4722903,
+  "tags": {
+    "name": "\"Cherry\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5026926588,
+  "lat": 40.5438740,
+  "lon": 44.9709598,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ambassador",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5026926590,
+  "lat": 40.5379679,
+  "lon": 44.9628058,
+  "tags": {
+    "name": "Օրսետո",
+    "name:en": "\"Orseto\"",
+    "name:ru": "\"Орсето\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5027852572,
+  "lat": 40.5641191,
+  "lon": 45.0010351,
+  "tags": {
+    "name": "Sevan 3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5030220997,
+  "lat": 40.4819631,
+  "lon": 44.3574299,
+  "tags": {
+    "name": "Aragats hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5036058657,
+  "lat": 40.2117887,
+  "lon": 44.4848081,
+  "tags": {
+    "name": "Princ Plaza",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5090904730,
+  "lat": 40.1750824,
+  "lon": 44.5212215,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "15/4",
+    "addr:postcode": "0010",
+    "addr:street": "Վարդանանց փողոց",
+    "email": "info@messier53.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "«ՄԵՍՍԻԵՐ 53 ԵՐԵՎԱՆ ՀՅՈՒՐԱՆՈՑ»",
+    "name:en": "\"Messier 53 Yerevan\" Hotel",
+    "name:hy": "«ՄԵՍՍԻԵՐ 53 ԵՐԵՎԱՆ ՀՅՈՒՐԱՆՈՑ»",
+    "name:ru": "\"Messier 53 Yerevan\" Hotel",
+    "operator": "\"MANKAKAN ZVARCHANKNERI KENTRON\" LLC",
+    "phone": "+374 11 53 00 53,+374 95 53 00 53",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.messier53.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5096960722,
+  "lat": 40.1841646,
+  "lon": 44.5127056,
+  "tags": {
+    "name:en": "Yerivan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5109830411,
+  "lat": 40.1812829,
+  "lon": 44.5152788,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "5/1",
+    "addr:postcode": "0001",
+    "addr:street": "Հյուսիսային պողոտա",
+    "email": "H7309@accor.com",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Ibis Yerevan Center",
+    "name:de": "Hotel Ibis Jerewan",
+    "name:fr": "hôtel Ibis Erevan",
+    "name:ru": "Ибис",
+    "operator": "AccorHotels",
+    "phone": "+374 10 59 59 59",
+    "rooms": "255",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.accorhotels.com/gb/hotel-7309-ibis-yerevan-center/index.shtml",
+    "wikidata": "Q52983914"
+  }
+},
+{
+  "type": "node",
+  "id": 5126546323,
+  "lat": 40.1837348,
+  "lon": 44.5123536,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "\"Մաշտոց\"",
+    "name:en": "Mashtots Hotel",
+    "name:hy": "\"Մաշտոց\"",
+    "name:ru": "\"Маштоц\" Отель",
+    "rooms": "8",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5153401044,
+  "lat": 39.5588728,
+  "lon": 46.0363664,
+  "tags": {
+    "name": "Quarunj",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5153401774,
+  "lat": 39.2241325,
+  "lon": 46.3063788,
+  "tags": {
+    "opening_hours": "Mo-Su 00:00-00:00",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5175850021,
+  "lat": 40.6196308,
+  "lon": 44.5556814,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5178783071,
+  "lat": 40.1764947,
+  "lon": 44.5124980,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "26/4",
+    "addr:postcode": "0010",
+    "addr:street": "Վազգեն Սարգսյանի փողոց",
+    "email": "info@erebunihotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Էրեբունի հյուրանոց",
+    "name:de": "Hotel Erebuni",
+    "name:en": "\"Erebuni\" Hotel",
+    "name:hy": "Էրեբունի հյուրանոց",
+    "name:ru": "Гостиница \"Эребуни\"",
+    "note": "Skype - hotel.erebuni",
+    "phone": "+374 10 58 05 05, +374 56 49 94, +374 56 49 93",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "erebunihotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5202309422,
+  "lat": 41.0984297,
+  "lon": 44.6619635,
+  "tags": {
+    "name:en": "Lalvar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5202427423,
+  "lat": 41.0919048,
+  "lon": 44.6528302,
+  "tags": {
+    "internet_access": "wlan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5217886282,
+  "lat": 40.8325256,
+  "lon": 43.8288970,
+  "tags": {
+    "name": "\"Erazank\" Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5217887268,
+  "lat": 40.7864352,
+  "lon": 43.8545868,
+  "tags": {
+    "addr:city": "Գյումրի",
+    "addr:housenumber": "84/7",
+    "addr:postcode": "3102",
+    "addr:street": "Գորկու փողոց",
+    "name": "\"Golden Apricot\" Hotel",
+    "name:ru": "Гостиница \"Золотой Абрикос\"",
+    "phone": "+374 312 6 37 77",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5237834010,
+  "lat": 39.2070535,
+  "lon": 46.4067015,
+  "tags": {
+    "name": "Hotel Lernagorts",
+    "phone": "+374 285 2 80 39, +374 285 5 20 86, +374 285 2 38 02",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5300375920,
+  "lat": 40.8042318,
+  "lon": 43.8485472,
+  "tags": {
+    "name": "Կամա",
+    "name:en": "\"Kama\" Hotel",
+    "name:ru": "Гостиница \"Кама\"",
+    "phone": "+374 55 30 12 08, +374 312 3 07 77",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5300436580,
+  "lat": 40.8016849,
+  "lon": 43.8478946,
+  "tags": {
+    "name": "\"Ալմաստ\" Հյուրանոց",
+    "name:en": "\"Almaz\" Hotel",
+    "name:ru": "Гостиница \"Алмаз\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5302911222,
+  "lat": 41.0917479,
+  "lon": 44.6564987,
+  "tags": {
+    "name": "\"Sanahin Bridge\" Lounge Hotel",
+    "phone": "+374 91 35 39 38, +374 253 3 17 17",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5305285990,
+  "lat": 40.7868169,
+  "lon": 43.8497319,
+  "tags": {
+    "addr:city": "Գյումրի",
+    "addr:housenumber": "70",
+    "addr:postcode": "3104",
+    "addr:street": "Գորկու փողոց",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Վանատուր",
+    "name:en": "\"Vanatur\" Hotel",
+    "name:hy": "Վանատուր",
+    "name:ru": "\"Ванатур\" Гостиница",
+    "phone": "+374 312 5 04 64, +374 312 5 01 92",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5337681098,
+  "lat": 40.5309818,
+  "lon": 44.7293515,
+  "tags": {
+    "email": "zvartnotshotel@gmail.com",
+    "name": "\"Zvartnots\" Hotel",
+    "phone": "+374 99 99 97 12 , +374 12 88 18 80",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://hotel-zvartnots.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5337685731,
+  "lat": 40.5290960,
+  "lon": 44.7278079,
+  "tags": {
+    "email": "info@aliq.am",
+    "fax": "+374 10 23 03 57",
+    "name": "Ալիք",
+    "name:en": "\"Aliq\" Holiday Home",
+    "name:ru": "\"Алик\"",
+    "phone": "+374 60 75 58 55,+374 43 10 60 00",
+    "tourism": "hotel",
+    "website": "http://www.aliq.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5351493423,
+  "lat": 40.1477984,
+  "lon": 44.4812318,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:postcode": "0046",
+    "addr:street": "Հայկ Հովսեփյան փողոց",
+    "email": "welcome@4guesthotel.com",
+    "internet_access": "wlan",
+    "name": "4Guest Hotel",
+    "name:en": "4Guest Hotel",
+    "name:ru": "4Гест Отель",
+    "operator": "Tatevik Sahakyan",
+    "phone": "+37491423503",
+    "tourism": "hotel",
+    "website": "http://www.4guesthotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5367940921,
+  "lat": 40.8051194,
+  "lon": 44.4973567,
+  "tags": {
+    "addr:city": "Վանաձոր",
+    "addr:housenumber": "2a",
+    "addr:postcode": "2002",
+    "addr:street": "Թումանյան փողոց",
+    "email": "david-93-24@mail.ru",
+    "internet_access": "wlan",
+    "name": "Հյուրանոց",
+    "name:en": "Hotel",
+    "name:ru": "Гостиница",
+    "opening_hours": "24/7",
+    "operator": "Davit Shahinyan",
+    "phone": "+374 55 15 25 75",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5417006521,
+  "lat": 40.2737722,
+  "lon": 44.6304920,
+  "tags": {
+    "name": "Qeri",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5431056858,
+  "lat": 40.1877328,
+  "lon": 44.5042992,
+  "tags": {
+    "email": "info@israyelori.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Իսրայել Օրի",
+    "name:en": "\"Israel Ori\" Hotel",
+    "name:ru": "\"Исраэл Ори\" Гостиница",
+    "phone": "+374 10 21 11 11,+374 10 21 00 00",
+    "tourism": "hotel",
+    "website": "https://israelori.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 5440946297,
+  "lat": 40.2282069,
+  "lon": 44.5387743,
+  "tags": {
+    "name": "Բիթլիս Հյուրանոց",
+    "name:en": "\"Bitlis\" Hotel",
+    "name:ru": "\"Битлис\" гостинично-ресторанный комплекс",
+    "phone": "+374 44 88 89 99, +374 11 21 00 01,+374 11 21 00 21",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5453626801,
+  "lat": 40.1830478,
+  "lon": 44.5044944,
+  "tags": {
+    "email": "reservations@cityhotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "City Hotel Yerevan",
+    "name:en": "City Hotel Yerevan",
+    "phone": "+374 12 42 44 25",
+    "tourism": "hotel",
+    "website": "http://cityhotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5457595930,
+  "lat": 40.1774372,
+  "lon": 44.4948870,
+  "tags": {
+    "email": "gyumri.hotel@mail.ru",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Գյումրի\"",
+    "name:en": "\"Gyumri\" Hotel",
+    "name:hy": "\"Գյումրի\"",
+    "name:ru": "\"Гюмри\" Гостиница",
+    "phone": "+374 10 58 27 26,+374 96 58 27 26",
+    "tourism": "hotel",
+    "website": "http://gyumri-hotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5476952521,
+  "lat": 40.8035297,
+  "lon": 44.4860622,
+  "tags": {
+    "name": "Գրին հաուս",
+    "name:en": "Green house",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5483145435,
+  "lat": 40.5308186,
+  "lon": 44.7231826,
+  "tags": {
+    "name": "\"Arsan\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5483386588,
+  "lat": 40.4897217,
+  "lon": 44.5944865,
+  "tags": {
+    "email": "info@aghveranararat.am",
+    "name": "\"Աղվերան Արարատ ռեզորտ\"",
+    "name:en": "\"Aghveran Ararat Resort\"",
+    "name:ru": "\"Агверан Арарат Резорт\"",
+    "phone": "+374 60 65 06 06,+374 95 65 06 06",
+    "tourism": "hotel",
+    "website": "http://araratresort.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5514783821,
+  "lat": 40.2097807,
+  "lon": 44.5509039,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5522790683,
+  "lat": 40.2550050,
+  "lon": 44.5948003,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "5",
+    "addr:street": "Աբովյան խճուղի",
+    "email": "info@multigrandhotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Multi Grand Hotel\"",
+    "operator": "Multi Grand Hotel",
+    "phone": "+374 10 61 00 55",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://pharaon.am"
+  }
+},
+{
+  "type": "node",
+  "id": 5567441401,
+  "lat": 40.1807517,
+  "lon": 44.5150894,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "3/4",
+    "addr:postcode": "0001",
+    "addr:street": "Abovyan St",
+    "brand": "The Luxury Collection",
+    "contact:email": "info@thealexanderyerevan.com",
+    "contact:facebook": "https://www.facebook.com/TheAlexanderYerevan/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"The Alexander\" Yerevan",
+    "opening_hours": "24/7",
+    "operator": "Marriott",
+    "phone": "+374 11 20 60 00",
+    "rooms": "114",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://marriott.com/evnlc",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5590527811,
+  "lat": 40.4078936,
+  "lon": 44.6444407,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5614444626,
+  "lat": 39.9671533,
+  "lon": 44.5092031,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5614803423,
+  "lat": 39.5084272,
+  "lon": 46.3415539,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "24/3",
+    "addr:postcode": "3201",
+    "addr:street": "Անկախության փողոց",
+    "email": "mira.hotel@mail.ru",
+    "name": "\"Mira\" Hotel",
+    "phone": "+374 284 2 48 80,+374 93 59 59 47,+374 96 59 59 47",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5615035674,
+  "lat": 39.5220637,
+  "lon": 46.3401790,
+  "tags": {
+    "name": "\"Diana\" Hotel",
+    "rooms": "37",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5661888607,
+  "lat": 40.1487679,
+  "lon": 45.3043187,
+  "tags": {
+    "name": "Խրճիթ",
+    "name:en": "\"Khrchit\"",
+    "name:ru": "\"Хрчит\"",
+    "phone": "+374 99 80 06 00, +374 262 4 29 64",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5676191755,
+  "lat": 39.8392273,
+  "lon": 45.6663357,
+  "tags": {
+    "email": "jermuk.place@hyatt.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Hyatt Place Jermuk\" Hotel",
+    "phone": "+374 607 4 12 34",
+    "rooms": "92",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://jermuk.place.hyatt.com/en/hotel/home.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5695354063,
+  "lat": 40.2141742,
+  "lon": 44.5048584,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Ossanna Hotel",
+    "phone": "+374 91 29 09 00, +33 6 200 465 30",
+    "rooms": "10",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://ossanna-hotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5698890270,
+  "lat": 40.1804538,
+  "lon": 44.5146626,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "11",
+    "addr:postcode": "0010",
+    "addr:street": "Հյուսիսային պողոտա",
+    "contact:email": "info@goldenpalacehotel.com",
+    "contact:phone": "+37412220001",
+    "contact:website": "http://goldenpalacehotel.am",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Golden Palace Boutique Hotel",
+    "rooms": "36",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5777223825,
+  "lat": 40.1832516,
+  "lon": 44.5284022,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "39a",
+    "addr:postcode": "0025",
+    "addr:street": "Այգեստանի 9րդ փողոց",
+    "contact:facebook": "https://www.facebook.com/theresetlounge84/",
+    "email": "theresetlounge84@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Reset Lounge 84",
+    "phone": "+374 41 37 00 32",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5784080254,
+  "lat": 40.1900123,
+  "lon": 44.5166114,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "38/2",
+    "addr:postcode": "0009",
+    "addr:street": "Ավետիք Իսահակյան փողոց",
+    "email": "info@yerevanivory.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Այվորի Հաուս",
+    "name:en": "Ivory House Hotel",
+    "name:ru": "АЙВОРИ ХАУС ОТЕЛЬ",
+    "note": "booking@yerevanivory.com",
+    "opening_hours": "24/7",
+    "phone": "+374 10 56 88 81,+374 60 61 88 81",
+    "tourism": "hotel",
+    "website": "http://yerevanivory.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5797797653,
+  "lat": 40.1650220,
+  "lon": 44.5208565,
+  "tags": {
+    "name:en": "Bonjour guest house",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5805943753,
+  "lat": 40.3226830,
+  "lon": 44.3119331,
+  "tags": {
+    "name:en": "Yellow guesthouse",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5849553308,
+  "lat": 40.9881710,
+  "lon": 44.3718180,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5866001295,
+  "lat": 40.1502071,
+  "lon": 45.3028432,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5891378285,
+  "lat": 40.8681117,
+  "lon": 45.1380177,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5901188785,
+  "lat": 41.2193744,
+  "lon": 44.8752211,
+  "tags": {
+    "name:en": "Platinum Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5931086185,
+  "lat": 40.9270739,
+  "lon": 43.8715649,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5958094946,
+  "lat": 40.7386040,
+  "lon": 44.8655355,
+  "tags": {
+    "name": "Hotel Seno",
+    "name:en": "Hotel Seno",
+    "phone": "+374 93 75 85 95",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5959486879,
+  "lat": 40.1697541,
+  "lon": 44.5138517,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "27a",
+    "addr:street": "Տիգրան Մեծի պողոտա",
+    "email": "hotelvictoria86@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "\"Victoria Inn Yerevan\"",
+    "name:en": "\"Victoria Inn Yerevan\"",
+    "phone": "+374 77 40 95 94",
+    "rooms": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6009611650,
+  "lat": 40.1909573,
+  "lon": 44.4708447,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "27",
+    "addr:postcode": "0099",
+    "addr:street": "Լենինգրադյան փողոց",
+    "brand": "Inga Hotel Yerevan",
+    "description": " Inga Hotel Yerevan was built in September 2018,   all rooms are elegant and wide (25-40 square meter)  furnished with new furniture and appliances.",
+    "email": "ingahotelyerevan@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:ssid": "Inga Hotel Yerevan",
+    "name": "Ինգա հոթել Երևան",
+    "name:en": "Inga Hotel Yerevan",
+    "name:hy": "Ինգա հոթել Երևան",
+    "name:ru": "Инга Отель Ереван",
+    "operator": "Inga Hotel Yerevan",
+    "phone": "+374 43 33 00 31,+374 11 33 00 31",
+    "rooms": "19",
+    "smoking": "outside",
+    "start_date": "10.09.2018",
+    "tourism": "hotel",
+    "website": "https://ingahotelyerevan.business.site"
+  }
+},
+{
+  "type": "node",
+  "id": 6132043586,
+  "lat": 40.7870021,
+  "lon": 43.8471798,
+  "tags": {
+    "addr:city": "Գյումրի",
+    "addr:housenumber": "58",
+    "addr:postcode": "3101",
+    "addr:street": "Գորկու փողոց",
+    "email": "bookingtomushotel@gmail.com",
+    "internet_access": "wlan",
+    "name": "Թոմուս",
+    "name:en": "Tomu’s Hotel",
+    "name:ru": "Томус",
+    "opening_hours": "24/7",
+    "operator": "Gayane Tovmasyan",
+    "phone": "+374 77 42 43 41",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.tomus-hotel.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 6137993842,
+  "lat": 39.5228774,
+  "lon": 46.3323346,
+  "tags": {
+    "addr:city": "Գորիս",
+    "addr:housenumber": "1",
+    "addr:street": "Արցախյան խճուղի",
+    "internet_access": "wlan",
+    "name": "Syunik Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6139313977,
+  "lat": 40.2072986,
+  "lon": 44.5616746,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6159035617,
+  "lat": 40.1833075,
+  "lon": 44.5067870,
+  "tags": {
+    "addr:city": "Yerevan",
+    "addr:housenumber": "97/2",
+    "addr:postcode": "0002",
+    "addr:street": "Pavstos Buzand St",
+    "brand": "IHG",
+    "contact:facebook": "https://www.facebook.com/hiexyerevan/",
+    "contact:phone": "+374 60 404000",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Holiday Inn Express Yerevan",
+    "operator": "Holiday Inn",
+    "parking:fee": "no",
+    "smoking": "no",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.ihg.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6184513985,
+  "lat": 39.9560230,
+  "lon": 44.5491917,
+  "tags": {
+    "name": "Արտաշատի Քաղաքապետարան",
+    "name:en": "Artashati Khaxakhapetaran",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6238059353,
+  "lat": 40.1777356,
+  "lon": 44.5084619,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "7/1",
+    "addr:postcode": "0010",
+    "addr:street": "Զաքյան փողոց",
+    "email": "info@centralhotel.am",
+    "internet_access": "wlan",
+    "name": "Ցենտրալ հյուրանոց",
+    "name:en": "\"Central\" Hotel",
+    "name:hy": "Ցենտրալ հյուրանոց",
+    "name:ru": "\"Централ \" Гостиница",
+    "phone": "+374 10 60 03 00,+374 10 60 04 00,+374 43 24 88 13",
+    "rooms": "26",
+    "tourism": "hotel",
+    "website": "https://centralhotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 6240004724,
+  "lat": 40.3305432,
+  "lon": 44.2675168,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6252246885,
+  "lat": 40.1798293,
+  "lon": 44.4997711,
+  "tags": {
+    "internet_access": "wlan",
+    "name:en": "Apricot Hotel Erevan",
+    "opening_hours": "24/7",
+    "phone": "+374 11 33 00 11",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6269170485,
+  "lat": 40.9993914,
+  "lon": 44.3878329,
+  "tags": {
+    "addr:housenumber": "2/11",
+    "addr:street": "Իսահակյան փողոց",
+    "internet_access": "wlan",
+    "name:en": "Aleya Hotel",
+    "phone": "+37499661122",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6332452939,
+  "lat": 40.4028112,
+  "lon": 44.6478785,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6332477789,
+  "lat": 38.8663763,
+  "lon": 46.1975902,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6332482301,
+  "lat": 38.8593222,
+  "lon": 46.2081730,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6332482302,
+  "lat": 38.8592525,
+  "lon": 46.2083275,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6335705285,
+  "lat": 40.1612848,
+  "lon": 45.3007775,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6355318911,
+  "lat": 40.1948425,
+  "lon": 44.5968318,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6355325949,
+  "lat": 40.1926906,
+  "lon": 44.5876299,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6355328123,
+  "lat": 40.1929596,
+  "lon": 44.5881714,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6355328892,
+  "lat": 40.1932083,
+  "lon": 44.5881165,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6360047736,
+  "lat": 40.1336645,
+  "lon": 44.5206904,
+  "tags": {
+    "name:ru": "G-отель . гавно , перекантоваться можно",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6369340624,
+  "lat": 40.1900566,
+  "lon": 44.5201828,
+  "tags": {
+    "addr:housenumber": "23",
+    "addr:street": "Կորյունի փողոց",
+    "name": "Imperial Palace Hotel",
+    "phone": "+ (374) 10 58 80 40",
+    "tourism": "hotel",
+    "website": "http://hotelimperial.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 6401969985,
+  "lat": 40.2135220,
+  "lon": 44.4609112,
+  "tags": {
+    "addr:housenumber": "15/6 Շենք",
+    "addr:postcode": "0057",
+    "addr:street": "Նազարբեկյան թաղամաս",
+    "internet_access": "wlan",
+    "name": "ԳՈԼԴԵՆ ՍԵՔԸՆԴՍ",
+    "name:en": "GOLDEN SECONDS",
+    "name:ru": "Голден Секндс",
+    "opening_hours": "24/7",
+    "phone": "+37498382222",
+    "tourism": "hotel",
+    "website": "http://www.gshotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 6416581642,
+  "lat": 40.7996444,
+  "lon": 43.8446224,
+  "tags": {
+    "name": "olympic",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6419248545,
+  "lat": 40.1386250,
+  "lon": 44.5324956,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Սպիտակ Տուն",
+    "name:en": "Spitak Tun",
+    "name:hy": "Սպիտակ Տուն",
+    "name:ru": "Спитак Тун",
+    "phone": "+374 10 45 80 88",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6423761667,
+  "lat": 40.7857976,
+  "lon": 43.8406625,
+  "tags": {
+    "addr:city": "Գյումրի",
+    "name": "Plaza Viktoria",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6432311449,
+  "lat": 40.1837676,
+  "lon": 44.5626795,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6441106079,
+  "lat": 40.1197598,
+  "lon": 44.7154508,
+  "tags": {
+    "email": "info@garnihinyard.com,reserve@garnihinyard.com",
+    "internet_access": "wlan",
+    "name": "Garni HinYard",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+374 98 40 09 36",
+    "rooms": "10",
+    "tourism": "hotel",
+    "website": "http://www.garnihinyard.am"
+  }
+},
+{
+  "type": "node",
+  "id": 6464566285,
+  "lat": 40.2259385,
+  "lon": 44.4506325,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6464570985,
+  "lat": 40.2257989,
+  "lon": 44.4507942,
+  "tags": {
+    "name:en": "Giogia",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6486007688,
+  "lat": 40.1921048,
+  "lon": 44.5023592,
+  "tags": {
+    "name": "Էնջոյ",
+    "name:en": "Enjoy",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6594529093,
+  "lat": 40.2402557,
+  "lon": 44.5069221,
+  "tags": {
+    "name": "Փարոս",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6632695835,
+  "lat": 40.2016627,
+  "lon": 44.5749215,
+  "tags": {
+    "name": "New York Hotel",
+    "phone": "+374 43 62 10 10,+374 11 62 10 10",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6634715285,
+  "lat": 40.5337133,
+  "lon": 44.7305317,
+  "tags": {
+    "name": "Ուսուցիչների հանգստի տուն",
+    "name:ru": "Дом отдыха учителей",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6653522985,
+  "lat": 40.4464621,
+  "lon": 44.6415506,
+  "tags": {
+    "addr:housenumber": "194",
+    "addr:postcode": "2504",
+    "addr:street": "1-ին փողոց",
+    "email": "bjniresort@gmail.com",
+    "name": "Բջնի ռեզորթ",
+    "name:en": "Bjni resort",
+    "name:ru": "Бжни резорт",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "094552577",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6654659685,
+  "lat": 40.5301706,
+  "lon": 44.7288116,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Չարենցի փողոց",
+    "internet_access": "wlan",
+    "name:en": "Cottages Tcakhkaszor",
+    "phone": "+37499359604",
+    "tourism": "hotel",
+    "website": "https://www.facebook.com/%D0%9A%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B8-%D0%A6%D0%B0%D1%85%D0%BA%D0%B0%D0%B4%D0%B7%D0%BE%D1%80-111534066178501/"
+  }
+},
+{
+  "type": "node",
+  "id": 6660881285,
+  "lat": 39.5198650,
+  "lon": 46.0421089,
+  "tags": {
+    "name": "Ֆլորա",
+    "name:en": "Flora Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6673296086,
+  "lat": 40.8143917,
+  "lon": 43.8399254,
+  "tags": {
+    "addr:housenumber": "30/1",
+    "addr:street": "Վազգեն Սարգսյանի փողոց",
+    "internet_access": "wlan",
+    "name:en": "Vale hotel&restaurant complex",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6681184985,
+  "lat": 40.7342039,
+  "lon": 44.8699058,
+  "tags": {
+    "internet_access": "wlan",
+    "name:en": "Shamoni",
+    "operator": "Sergey",
+    "phone": "+37477795201",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6687877685,
+  "lat": 40.6952656,
+  "lon": 44.8528287,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6789924102,
+  "lat": 39.2075419,
+  "lon": 46.3866913,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Fenix",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6806359195,
+  "lat": 40.8002518,
+  "lon": 44.5240897,
+  "tags": {
+    "name": "Royal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6817191659,
+  "lat": 39.4968632,
+  "lon": 46.3439001,
+  "tags": {
+    "name": "NNN Guesthouse",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6819191224,
+  "lat": 40.1872174,
+  "lon": 44.4615006,
+  "tags": {
+    "email": "aleppoyerevan@gmail.com",
+    "name": "Ալեպպո hյուրանոց",
+    "name:en": "Aleppo",
+    "name:hy": "Ալեպպո hյուրանոց",
+    "name:ru": "Алеппо",
+    "phone": "+374 98 94 89 14,+374 96 01 51 59",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6830673965,
+  "lat": 40.9969638,
+  "lon": 44.3816838,
+  "tags": {
+    "addr:city": "Ստեփանավան",
+    "addr:housenumber": "43/1",
+    "addr:street": "Ավետիսյան",
+    "name": "Նեկտար",
+    "name:en": "Nectar",
+    "name:ru": "Нектар",
+    "phone": "(+374)55-48-45-09 (+374)55-07-02-84 (+374)77-07-02-84",
+    "tourism": "hotel",
+    "website": "http://www.nectar-hotel.am/"
+  }
+},
+{
+  "type": "node",
+  "id": 6958140185,
+  "lat": 39.8689933,
+  "lon": 45.3693341,
+  "tags": {
+    "name:en": "Hotel Arevi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7004401534,
+  "lat": 40.1911249,
+  "lon": 44.4974749,
+  "tags": {
+    "addr:city": "Երևան",
+    "addr:housenumber": "53B",
+    "addr:postcode": "0019",
+    "addr:street": "Այգեձորի 1-ին նրբանցք",
+    "email": "info@capitalhotel.am",
+    "internet_access": "wlan",
+    "name": "\"Կապիտալ\"",
+    "name:en": "\"Capital\"",
+    "name:hy": "\"Կապիտալ\"",
+    "name:ru": "\"Капитал\"",
+    "phone": "+374 10 27 78 78,+374 91 27 78 78,+374 93 76 76 99,+374 55 27 78 78",
+    "tourism": "hotel",
+    "website": "http://capitalhotel.am"
+  }
+},
+{
+  "type": "node",
+  "id": 7010650985,
+  "lat": 40.1691046,
+  "lon": 44.5131657,
+  "tags": {
+    "addr:street": "Տիգրան Մեծի պողոտա",
+    "name": "Աստորիա Հոթել ՓԲԸ",
+    "phone": "+37493535393",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7039193985,
+  "lat": 41.0377998,
+  "lon": 45.1338328,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7046945788,
+  "lat": 40.2508969,
+  "lon": 44.5878129,
+  "tags": {
+    "name": "Էդեմ",
+    "name:en": "\"Edem\"",
+    "name:hy": "Էդեմ",
+    "name:ru": "\"Эдем\"",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7046945789,
+  "lat": 40.2511979,
+  "lon": 44.5881831,
+  "tags": {
+    "name": "Սանռայս",
+    "name:en": "\"Sunrise\"",
+    "name:hy": "Սանռայս",
+    "name:ru": "\"Санрайз\"",
+    "tourism": "hotel"
+  }
+}
+
+  ]
+}
