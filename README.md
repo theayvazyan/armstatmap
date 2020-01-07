@@ -17,7 +17,7 @@ The problem is caused for two reasons:
 1.   Border start and end points sometimes were reversed (endpoint of a border was not a startpoint for the next one)
 2.   Border order messed up (borders were mainly in clockwise order, but some of them were just in a random place)
 
-<img src="before.jpg" />
+<img src="images/before_coordinate_fix.jpg" />
 
 We deal with these two problems with the help of these functions:
 ```python
@@ -34,7 +34,7 @@ this iterates over the borders, and if the start point of the current one is not
 
 Finally we got this:
 
-<img src="after.jpg" />
+<img src="images/after_coordinate_fix.jpg" />
 
 ***
 
@@ -43,11 +43,11 @@ Using shapely `Point.within(Polygon)` method, we get the provinces, a hotel is i
 Going further, we create GeoDataFrames from hotels and provinces (added hotel density column) and plot using
 `choropleth`
 
-<img src="hotels_density_by_provinces.png" />
+<img src="images/hotels_density_by_provinces.png" />
 
 and `kdeplot`
 
-<img src="hotels_heatmap.png" />
+<img src="images/hotels_heatmap.png" />
 
 ***
 This gives a basic idea of hotel placements/competitor density in the country and may become a starting point for further market analysis.
