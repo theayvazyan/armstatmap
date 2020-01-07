@@ -1,38 +1,51 @@
 import utils
-import numpy as np
-from pyproj import Proj
-from matplotlib import cm
-from mathutils import Matrix, Vector
-import bpy
-import bmesh
+import geoplot as gplt
+import geopandas as gpd
+from collections import Counter
+import matplotlib.pyplot as plt
+from shapely.geometry import Point, Polygon
 
-def normalize_points(points):
-    """Normalize points while preserving aspect ratio"""
+utils.update_source()  # by default it updates hotels
+utils.update_source("provinces")
 
-    data = np.array(points)
+hnames, hcoords = utils.get_hotels_file()
+pids, pnames, pcoords = utils.get_provinces_file()
 
-    minX, minY = np.min(data, axis=0)
-    maxX, maxY = np.max(data, axis=0)
-    rangeX, rangeY = maxX - minX, maxY - minY
+hpids = [utils.state_by_coord(h, pids, pcoords) for h in hcoords]
+hpoints = [Point(p) for p in hcoords]
+hdensity = Counter(hpids)
+hmax = hdensity.most_common(1)[0][1]
 
-    if rangeX > rangeY:
-        data[:, 0] = (data[:, 0] - minX - 0.5*rangeX) / rangeX + 0.5
-        data[:, 1] = (data[:, 1] - minY - 0.5*rangeY) / rangeX + 0.5
-    else:
-        data[:, 0] = (data[:, 0] - minX - 0.5*rangeX) / rangeY + 0.5
-        data[:, 1] = (data[:, 1] - minY - 0.5*rangeY) / rangeY + 0.5
+ppoly = [Polygon(p) for p in pcoords]
+phdensity = [round(hdensity[p]*100/hmax, 0) for p in pids]
 
-    return data
+provinces_gdf = gpd.GeoDataFrame({
+    'provinceid': pids,
+    'provincename': pnames,
+    'geometry': ppoly,
+    'density': phdensity
+})
 
+hotels_gdf = gpd.GeoDataFrame({
+    'hotelname': hnames,
+    'geometry': hpoints,
+})
 
-names, coords = utils.get_osm()
+gplt.choropleth(
+    provinces_gdf,
+    hue='density', cmap='Purples',
+    projection=gplt.crs.AlbersEqualArea(),
+    legend=True, legend_kwargs={'orientation': 'horizontal'}
+)
+plt.title("Hotel density by provinces in Armenia")
+plt.savefig('hotels_density_by_provinces.png', bbox_inches='tight')
 
-print("Number of hotels found : {}".format(len(coords)))
-
-# Project coordinates into Mercator projection
-p = Proj(init="epsg:3785")  # Popular Visualisation CRS / Mercator
-coords = np.apply_along_axis(lambda x: p(*x), 1, coords)
-
-data = normalize_coords(coords)
-hist = heatmap_grid(data, sigma_sq=0.00002, n=100)
-heatmap_barplot(hist, colormap=cm.viridis)
+ax = gplt.kdeplot(
+    hotels_gdf,
+    clip=provinces_gdf.geometry,
+    shade=True, shade_lowest=True,
+    cmap='Reds', projection=gplt.crs.AlbersEqualArea()
+)
+gplt.polyplot(provinces_gdf, ax=ax, zorder=1)
+plt.title("Hotels heatmap of Armenia")
+plt.savefig('hotels_heatmap.png', bbox_inches='tight')
